@@ -1,7 +1,5 @@
 # Diamond-Price-Prediction
 
-## Project Overview
-
 The **Diamond Price Prediction** project uses machine learning models to analyze a dataset of over 53,000 diamonds. The dataset contains features such as carat, cut, clarity, and color, which are used to build models to accurately predict the price of diamonds. 
 
 ### 1. **Data Cleaning and Preprocessing**
